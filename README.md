@@ -6,6 +6,7 @@ Duration: November to December 2024
 Mentor: Neela Santhosh Kumar
 
 Project Name: Simple Calculator
+
 OVERVIEW OF THE PROJECT
 
 Objective: The objective of this project is to create a simple Python-based calculator that allows users to input two numerical values and select an arithmetic operation (addition, subtraction, multiplication, division) to perform. The program will then display the result of the chosen operation. This calculator will help demonstrate basic programming concepts such as input handling, conditional logic, and performing arithmetic operations.
